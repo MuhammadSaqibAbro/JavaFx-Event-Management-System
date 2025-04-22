@@ -1,0 +1,6 @@
+1a2b3c4d-5678-9101-1121-314151617181, A001, John Doe, john.doe@example.com, E101, Concert A, Refund, Open
+2b3c4d5e-6789-1011-2131-415161718192, A002, Jane Smith, jane.smith@example.com, E102, Concert B, Cancellation, Open
+3c4d5e6f-7890-1121-3141-516171819203, A003, Michael Johnson, michael.johnson@example.com, E103, Conference X, Special Request, Open
+4d5e6f7g-8901-2131-4151-617181920304, A004, Emily Davis, emily.davis@example.com, E104, Theater Y, Refund, Closed
+5e6f7g8h-9012-3141-5161-718192021405, A005, William Brown, william.brown@example.com, E105, Conference Z, Cancellation, Open
+6f7g8h9i-0123-4151-6171-819202122506, A006, Olivia Taylor, olivia.taylor@example.com, E106, Concert C, Special Request, Open
