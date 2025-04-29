@@ -1,0 +1,2 @@
+John Doe, 1234567890, Event A;Event B
+Jane Smith, 0987654321, Event C
